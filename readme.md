@@ -1,5 +1,5 @@
 # 注意事項
-- 本專案有使用 pod，請先使用 pod install 在編譯
+- 本專案有使用 pod，請先使用 pod install 在編譯
 
 # 使用的pod
 - Alamofire
@@ -10,7 +10,7 @@
 - 密鑰: cd2156523dad7c6a 
 
 # 優化
-1. 也許可以使用現成的flickr framework 或是包裝 api 模組化
+1. 也許可以使用現成的flickr framework 或是包裝 api 模組化
     - https://github.com/lukhnos/objectiveflickr
     - https://github.com/devedup/FlickrKit
 2. error 處理好，提示使用者相關訊息
