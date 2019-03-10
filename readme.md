@@ -1,15 +1,15 @@
 # 注意事項
 - 本專案有使用 pod，請先使用 pod install 在編譯
 
-# 使用的pod
+# 使用的 pod
 - Alamofire
 - SDWebImage
 
-# flickr 
+# flickr 資訊
 - key: 358d460ea376557af7d35b542f1659fb
 - 密鑰: cd2156523dad7c6a 
 
-# 優化
+# 待優化
 1. 也許可以使用現成的flickr framework 或是包裝 api 模組化
     - https://github.com/lukhnos/objectiveflickr
     - https://github.com/devedup/FlickrKit
